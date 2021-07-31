@@ -19,6 +19,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer, EMNLP-2019, [[paper]](https://www.aclweb.org/anthology/D19-1365/), [[code]](https://github.com/jimth001/formality_emnlp19)
 - Automatically Neutralizing Subjective Bias in Text, AAAI, 2020, [[paper]](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
 - Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
+- Plug and Play Autoencoders for Conditional Text Generation. Florian Mai, Nikolaos Pappas, Ivan Montero, Noah A. Smith and James Henderson. [[paper]](https://arxiv.org/pdf/2010.02983.pdf)
 
 ## Unsupervised (Non-parallel Data)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
@@ -79,6 +80,9 @@ This is a paper list for style transfer in text. It also contains some related r
 - Text Style Transfer via Learning Style Instance Supported Latent Space, IJCAI, 2020, [[paper]](https://www.ijcai.org/Proceedings/2020/0526.pdf)
 - Learning to Generate Multiple Style Transfer Outputs for an Input Sentence, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2002.06525)
 - Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders, ACL, 2020, [[paper]](https://arxiv.org/pdf/1911.03882.pdf)
+- Improving Adversarial Text Generation by Modeling the Distant Future, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.01279.pdf)
+- Learning Implicit Text Generation via Feature Matching, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.03588.pdf)
+- Plug and Play Autoencoders for Conditional Text Generation, EMNLP-2020, [[paper]](https://arxiv.org/pdf/2010.02983.pdf)
 - Unsupervised Text Style Transfer with Padded Masked Language Models, EMNLP, 2020, [[paper]](https://arxiv.org/pdf/2010.01054.pdf)
 - Reformulating Unsupervised Style Transfer as Paraphrase Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.05700.pdf)
 - DGST: a Dual-Generator Network for Text Style Transfer, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.14557.pdf)
@@ -91,6 +95,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - STYLEPTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2104.05196.pdf),[[code]](https://github.com/lvyiwei1/StylePTB/)
 - Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.11578.pdf)
 - Civil Rephrases Of Toxic Texts With Self-Supervised Transformers, EACL, 2021, [[paper]](https://arxiv.org/pdf/2102.05456.pdf), [[code]](https://github.com/LeoLaugier/conditional-auto-encoder-text-to-text-transfer-transformer)
+- A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow, ACL, 2021 [[paper]](https://aclanthology.org/2021.acl-long.187/)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1909.11493)
