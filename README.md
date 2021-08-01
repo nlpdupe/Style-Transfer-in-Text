@@ -64,6 +64,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.09368), [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
 - Domain Adaptive Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.09395), [[code]](https://github.com/cookielee77/DAST)
 - Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.06809.pdf), [[code]](https://github.com/VAShibaev/text_style_transfer)
+- Implicit Deep Latent Variable Models for Text Generation, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1908.11527.pdf)
 - Decomposing Textual Information For Style Transfer, WNGT, 2019, [[paper]](https://arxiv.org/pdf/1909.12928)
 - Zero-Shot Fine-Grained Style Transfer: Leveraging Distributed Continuous Style Representations to Transfer To Unseen Styles, Arxiv, 2019, [[paper]](https://arxiv.org/pdf/1911.03914)
 - A Probabilistic Formulation of Unsupervised Text Style Transfer, ICLR, 2020, [[paper]](https://openreview.net/forum?id=HJlA0C4tPS), [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
