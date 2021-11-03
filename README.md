@@ -8,6 +8,7 @@ This is a paper list for style transfer in text. It also contains some related r
 ## Review
 - Deep Learning for Text Style Transfer: A Survey, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2011.00416.pdf)
 - Text Style Transfer: A Review and Experiment Evaluation, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2010.12742.pdf)
+- A Review of Text Style Transfer using Deep Learning, TAI, 2021, [[paper]](https://arxiv.org/abs/2109.15144)
 
 ## Dataset
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/pdf/1803.06535)
@@ -86,6 +87,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Plug and Play Autoencoders for Conditional Text Generation, EMNLP-2020, [[paper]](https://arxiv.org/pdf/2010.02983.pdf)
 - Unsupervised Text Style Transfer with Padded Masked Language Models, EMNLP, 2020, [[paper]](https://arxiv.org/pdf/2010.01054.pdf)
 - Reformulating Unsupervised Style Transfer as Paraphrase Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.05700.pdf)
+- Plug and Play Autoencoders for Conditional Text Generation, EMNLP 2020 [[paper]](https://arxiv.org/pdf/2010.02983.pdf)
 - DGST: a Dual-Generator Network for Text Style Transfer, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.14557.pdf)
 - How Positive Are You: Text Style Transfer Using Adaptive Style Embedding, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.191.pdf)
 - Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
