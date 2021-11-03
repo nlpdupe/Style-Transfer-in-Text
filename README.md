@@ -99,6 +99,9 @@ This is a paper list for style transfer in text. It also contains some related r
 - Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.11578.pdf)
 - Civil Rephrases Of Toxic Texts With Self-Supervised Transformers, EACL, 2021, [[paper]](https://arxiv.org/pdf/2102.05456.pdf), [[code]](https://github.com/LeoLaugier/conditional-auto-encoder-text-to-text-transfer-transformer)
 - A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow, ACL, 2021 [[paper]](https://aclanthology.org/2021.acl-long.187/)
+- Transductive Learning for Unsupervised Text Style Transfer, EMNLP, 2021 [[paper]](https://arxiv.org/pdf/2109.07812.pdf)
+- Generic resources are what you need: Style transfer tasks without task-specific parallel training data, EMNLP, 2021 [[paper]](https://arxiv.org/pdf/2109.04543.pdf)
+- Collaborative Learning of Bidirectional Decoders for Unsupervised Text Style Transfer, EMNLP, 2021
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1909.11493)
@@ -112,6 +115,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/pdf/1808.04365)
 - Style versus Content: A distinction without a (learnable) difference?, COLING 2020,	[[paper]](https://www.aclweb.org/anthology/2020.coling-main.197.pdf)
+- Evaluating the Evaluation Metrics for Style Transfer: A Case Study in Multilingual Formality Transfer, EMNLP2021, [[paper]](https://arxiv.org/pdf/2110.10668.pdf)
 
 ## Stylistic Related Papers
 - Controlling Politeness in Neural Machine Translation via Side Constraints, NAACL 2016, [[paper]](https://www.aclweb.org/anthology/N16-1005.pdf)
